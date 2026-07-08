@@ -1,4 +1,4 @@
-name: Build
+name: Build No IME Auto Language Switch
 
 on: [push, pull_request, workflow_dispatch]
 
